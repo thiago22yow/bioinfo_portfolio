@@ -1,5 +1,8 @@
-### Hello, world!
-
+<body>
+  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
+    Hello, World!
+  </div>
+</body>
 <p style='text-align: justify;'>I'm Thiago Mendonça, a Biotechnologist with a Master's degree in Biochemistry and Molecular Biology, currently in the final stages of completing my Ph.D. in Bioinformatics.
 </p>
 
