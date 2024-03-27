@@ -1,4 +1,5 @@
-# Thiago Mendonça's Portfolio
+# <p align="center">Thiago Mendonça's Portfolio
+</p>
 
 ### Hello, world!
 
@@ -7,42 +8,55 @@
 
 <p style='text-align: justify;'> My initial exposure to bioinformatics occurred during my undergraduate exchange program in Canada. The very first lesson was all about the Monte-Carlo Algorithm, followed by 5 hours of R prectice. It was a bit of a shock to me, so much math and computation! I was determined to avoid bioinformatics as much as possible. Until my Master's program, I had been exclusively involved in wet lab molecular biology techniques. However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses using programming languages such as Python, R, and Bash to perform various biological experiments and analyses. Take a quick look at it! 
 </p>
-
-
-# Presenting Data in Graphs
 <br>
+<br>
+
+# <p align="center"> Presenting Data in Graphs
+</p>
 <br>
 <br>
 <span style="font-size: larger;">
  <strong> 
-<p align="center">
-  Project "Pangenome of putative viral family"
+<p align="center"> 
+ Project I
   </p>
+<p align="center">
+ "Pangenome of putative viral family"
+ </p>
+ 
  </strong>
   </span>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/1.svg">
 </p> 
-1- 
-2-
-3-
-4-
-6-
+<p>1- FlowerPlot - intersections of gene content</p> 
+<p>2- Pangenomic rarefraction curve</p> 
+<p>3- Normalized heatmap of gene intersections</p> 
+<p>4- Heaps law calculation</p> 
+<p>5- PCA plot of gene content</p> 
+<p> 6- Boxplot of genomic features</p> 
+<br>
 <strong>
 <p align="center">
-  Project "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
-  </p>
+ Project II
+ </p>
+<p align="center">
+ "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
+ </p>
  </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/2.svg">
 </p>
-7-
-8-
-9-
+<p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
+<p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
+<p>9- Tertiary tructures of different MVPs compared do modelled phage MVPs p</p>
 <strong>
 <p align="center"> 
-  Project "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
+  Project III 
   </p>
+<p align="center">
+ "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
+</p>
  </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/3.svg">
@@ -65,7 +79,7 @@
 
 ## Education
 <br>
-<p>Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil).</p>.
+<p>Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil).</p>
 <p>Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil).</p>
 <p>Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada).</p>
 <br>
@@ -75,12 +89,12 @@
 <h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
 #### R packages
 <h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
-Softwares
-<h>Pymol, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr</h>
+### Softwares
+<h>Pymol, Prodigy, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr, CD-HIT, BLAST, Aragorn, Prodigal, GeneMarkS, MEME, hmmer, Cialign, SPAdes, VIRIDIC, VICTOR</h>
 #### Databases
 <h>GEO, PDB, NCBI, SRA, miRBase</h>
 #### Other tools
-<h>collab, inkscape</h>
+<h>Github, Collab, Inkscape</h>
 
 ## Publications
 
