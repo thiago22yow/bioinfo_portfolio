@@ -14,8 +14,8 @@
 <br>
 <br>
 <body>
-  <div style="text-align:center; "font-size: 12px; strong> 
- Project I
+  <div style="text-align:center; font-size: 12px; font-weight: bold;"> 
+    Project I
   </div>
 </body>
 <p align="center">
