@@ -9,7 +9,8 @@
 <br>
 <p align="center">
  <span style="color:green">
- Presenting Data in Graphs
+  <h1>Presenting Data in Graphs
+  </h1> 
 </span>
 </p>
 <br>
