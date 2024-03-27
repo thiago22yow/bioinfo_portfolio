@@ -7,9 +7,11 @@
 </p>
 <br>
 <br>
-<span style="color:green">
+<p align="center">
+ <span style="color:green">
  Presenting Data in Graphs
 </span>
+</p>
 <br>
 <br>
 <span style="font-size: 12px;">
