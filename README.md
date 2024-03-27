@@ -65,12 +65,22 @@
 
 ## Education
 <br>
-Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil)
-Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil)
-Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada)
+<p>Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil).</p>.
+<p>Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil).</p>
+<p>Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada).</p>
 <br>
 
 ## Skills
+#### Programming languages
+<h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
+#### R packages
+<h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
+Softwares
+<h>Pymol, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr</h>
+#### Databases
+<h>GEO, PDB, NCBI, SRA, miRBase</h>
+#### Other tools
+<h>collab, inkscape</h>
 
 ## Publications
 
