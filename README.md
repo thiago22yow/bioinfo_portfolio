@@ -14,7 +14,7 @@
 <br>
 <br>
 <body>
-  <div style="text-align:center; font-size: 12px; font-weight: bold;"> 
+  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
     Project I
   </div>
 </body>
