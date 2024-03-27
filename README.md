@@ -1,5 +1,3 @@
-# <p align="center">Thiago Mendonça's Portfolio
-</p>
 
 ### Hello, world!
 
