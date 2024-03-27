@@ -10,11 +10,9 @@
 <span style="color:green">
  Presenting Data in Graphs
 </span>
-# Presenting Data in Graphs
-</p>
 <br>
 <br>
-<span style="font-size: larger;">
+<span style="font-size: 12px;">
  <strong> 
 <p align="center"> 
  Project I
