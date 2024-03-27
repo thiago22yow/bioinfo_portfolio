@@ -62,35 +62,31 @@
 14-
 15-
 16-
-<strong>
-Education
- </strong>
+
+## Education
+<br>
 Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil)
 Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil)
 Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada)
-<strong>
-Skills
- </strong>
-<strong>
-Publications
-</strong>
+<br>
 
-https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387
+## Skills
 
-https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub
+## Publications
 
-https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1
 
-http://dx.doi.org/10.51781/97865869201853250
+[Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner](https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387)
 
-https://journals.asm.org/doi/10.1128/jvi.01309-23
+[The evolution of ADAM gene family in eukaryotes](https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub)
 
-DASA Report
+[Characterization and Phylogenetic Insights into the First Viral Major Vault Proteins (MVPs), Identified in Bacteriophages from the Human Gut](https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1)
 
-https://dasa.com.br/genov/
+[Vigilância Genômica em Saúde Pública](http://dx.doi.org/10.51781/97865869201853250)
 
-Magazines
+[Gene duplication as a major force driving the genome expansion in some giant viruses](https://journals.asm.org/doi/10.1128/jvi.01309-23)
 
-https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2022/04/diferencas-geneticas-afetam-como-o-coronavirus-se-liga-as-nossas-celulas.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo
+[Relatório DASA - 2022](https://dasa.com.br/genov/)
 
-https://www.em.com.br/app/noticia/bem-viver/2022/05/03/interna_bem_viver,1363929/covid-19-mutacao-em-proteina-humana-pode-alterar-a-afinidade-de-variantes.shtml
+[Diferencas genéticas afetam como o coronavírus se liga as nossas células](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2022/04/diferencas-geneticas-afetam-como-o-coronavirus-se-liga-as-nossas-celulas.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo)
+
+[COVID-19: Mutação em proteina humana pode alterar a afinidade de variantes](https://www.em.com.br/app/noticia/bem-viver/2022/05/03/interna_bem_viver,1363929/covid-19-mutacao-em-proteina-humana-pode-alterar-a-afinidade-de-variantes.shtml)
