@@ -9,9 +9,12 @@
 </p>
 
 
+
+<strong> 
 <p align="center">
-  **Project "Pangenome of putative viral family"**
+  Project "Pangenome of putative viral family"
   </p>
+ </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/1.svg">
 </p> 
@@ -20,20 +23,22 @@
 3-
 4-
 6-
-
+<strong>
 <p align="center">
   Project "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
   </p>
+ </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/2.svg">
 </p>
 7-
 8-
 9-
-
+<strong>
 <p align="center"> 
   Project "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
   </p>
+ </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/3.svg">
 </p>
@@ -41,22 +46,26 @@
 11-
 12-
 13-
-
+<strong>
 <p align="center">
   Miscellaneous
   </p>
+ </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/4.svg">
 </p>
 14-
 15-
 16-
-
+<strong>
 Education
+ </strong>
 Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil)
 Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil)
 Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada)
-
+<strong>
 Skills
-
+ </strong>
+<strong>
 Publications
+</strong>
