@@ -10,8 +10,8 @@ My initial exposure to bioinformatics occurred during my undergraduate exchange 
     <img src="/assets/images/1.svg">
 </center>
 
-Project "Pangenome of putative viral family"
-![Collection of graphics](/assets/images/1.svg)
+                    Project "Pangenome of putative viral family"
+                    ![Collection of graphics](/assets/images/1.svg)
 1-
 2-
 3-
