@@ -1,6 +1,6 @@
 # Thiago Mendonça's Portfolio
 
-## Hello, world!
+### Hello, world!
 
 <p style='text-align: justify;'>I'm Thiago Mendonça, a Biotechnologist with a Master's degree in Biochemistry and Molecular Biology, currently in the final stages of completing my Ph.D. in Bioinformatics.
 </p>
@@ -9,16 +9,21 @@
 </p>
 
 
-
-<strong> 
+# Presenting Data in Graphs
+<br>
+<br>
+<br>
+<span style="font-size: larger;">
+ <strong> 
 <p align="center">
   Project "Pangenome of putative viral family"
   </p>
  </strong>
+  </span>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/1.svg">
 </p> 
-1-
+1- 
 2-
 3-
 4-
@@ -69,3 +74,23 @@ Skills
 <strong>
 Publications
 </strong>
+
+https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387
+
+https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub
+
+https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1
+
+http://dx.doi.org/10.51781/97865869201853250
+
+https://journals.asm.org/doi/10.1128/jvi.01309-23
+
+DASA Report
+
+https://dasa.com.br/genov/
+
+Magazines
+
+https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2022/04/diferencas-geneticas-afetam-como-o-coronavirus-se-liga-as-nossas-celulas.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo
+
+https://www.em.com.br/app/noticia/bem-viver/2022/05/03/interna_bem_viver,1363929/covid-19-mutacao-em-proteina-humana-pode-alterar-a-afinidade-de-variantes.shtml
