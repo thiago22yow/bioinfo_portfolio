@@ -7,8 +7,10 @@
 </p>
 <br>
 <br>
-<body style="text-align:center;">
-  <h1 style="color:green;">Presenting Data in Graphs</h1>
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:green;">Presenting Data in Graphs</h1>
+  </div>
 </body>
 <br>
 <br>
