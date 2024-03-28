@@ -11,7 +11,7 @@
         .image {
             float: left; /* Define a imagem para flutuar à esquerda */
             margin-right: 20px; /* Adiciona margem à direita da imagem para espaçamento */
-            width: 30px;
+            width: 100px;
             height: auto;
         }
 
