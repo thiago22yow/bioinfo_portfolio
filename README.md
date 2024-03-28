@@ -23,11 +23,13 @@
 <p style='text-align: justify;'> My initial exposure to bioinformatics occurred during my undergraduate exchange program in Canada. The very first lesson was all about the Monte-Carlo Algorithm, followed by 5 hours of R prectice. It was a bit of a shock to me, so much math and computation! I was determined to avoid bioinformatics as much as possible. Until my Master's program, I had been exclusively involved in wet lab molecular biology techniques. However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses using programming languages such as Python, R, and Bash to perform various biological experiments and analyses. Take a quick look at it! 
 </p>
 <br>
+<hr style="width:50%;text-align:left;margin-left:0">
 <body>
   <div style="text-align:center;">
     <h1 style="color:green;">Presenting Data in Graphs</h1>
   </div>
 </body>
+<hr style="width:50%;text-align:left;margin-left:0">
 <br>
 <body>
   <div style="text-align:center; font-size: 20px; font-family:century gothic; font-weight: bold;"> 
