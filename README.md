@@ -14,8 +14,8 @@
             align-items: center;
         }
         .image {
-            max-width: 20%;
-            margin-right: 10px;
+            width: 20%;
+            height: auto;
         }
     </style>
 </head>
