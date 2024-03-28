@@ -7,6 +7,17 @@
             font-family: "Century Gothic", sans-serif;
         }
     </style>
+    <style>
+        /* Adicione aqui o conteúdo CSS fornecido anteriormente */
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .image {
+            max-width: 50%;
+            margin-right: 20px;
+        }
+    </style>
 </head>
 <body>
   <p style="font-family:century gothic;">
@@ -17,6 +28,15 @@
     Hello, World!
   </div>
 </body>
+
+<body>
+    <div class="container">
+        <img src="caminho/para/sua/imagem.jpg" alt="Imagem" class="image">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus velit vel ex posuere bibendum. Maecenas interdum arcu at nisl convallis, eget bibendum lorem viverra. Nulla facilisi. Suspendisse potenti. Proin lobortis risus nec quam efficitur, id laoreet mi convallis. Sed lacinia, dolor a dictum congue, nisi ligula convallis urna, vel ultricies purus risus auctor nunc.</p>
+    </div>
+</body>
+
+
 <p style='text-align: justify;'>I'm Thiago Mendonça, a Biotechnologist with a Master's degree in Biochemistry and Molecular Biology, currently in the final stages of completing my Ph.D. in Bioinformatics.
 </p>
 
@@ -113,7 +133,7 @@
 <h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
 #### R packages
 <h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
-### Softwares
+#### Softwares
 <h>Pymol, Prodigy, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr, CD-HIT, BLAST, Aragorn, Prodigal, GeneMarkS, MEME, hmmer, Cialign, SPAdes, VIRIDIC, VICTOR</h>
 #### Databases
 <h>GEO, PDB, NCBI, SRA, miRBase</h>
