@@ -124,13 +124,21 @@
     <strong>Programming languages:</strong>
 </p>
 <h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
-<p>R packages:</p>
+<p>
+    <strong>R packages:</strong>
+</p>
 <h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
-<p>Softwares:</p>
+<p>
+    <strong>Softwares:</strong>
+</p>
 <h>Pymol, Prodigy, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr, CD-HIT, BLAST, Aragorn, Prodigal, GeneMarkS, MEME, hmmer, Cialign, SPAdes, VIRIDIC, VICTOR</h>
-<p>Databases:</p>
+<p>
+    <strong>Databases:</strong>
+</p>
 <h>GEO, PDB, NCBI, SRA, miRBase</h>
-<p>Other tools:</p>
+<p>
+    <strong>Other tools:</strong>
+</p>
 <h>Github, Collab, Inkscape</h>
 
 <body>
