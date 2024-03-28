@@ -20,7 +20,7 @@
 </body>
 <br>
 <body>
-  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
+  <div style="text-align:center; font-size: 20px; font-family:century gothic; font-weight: bold;"> 
     Project I
   </div>
 </body>
@@ -37,10 +37,11 @@
 <p>5- PCA plot of gene content</p> 
 <p> 6- Boxplot of genomic features</p> 
 <br>
-<strong>
-<p align="center">
- Project II
- </p>
+<body>
+  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
+    Project II
+  </div>
+</body>
 <p align="center">
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
