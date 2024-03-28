@@ -31,7 +31,7 @@
 
 <body>
     <div class="container">
-        <img src="assets/images/eu.jpg" alt="Imagem" class="image">
+        <img src="assets/images/eu2.jpg" alt="Imagem" class="image">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus velit vel ex posuere bibendum. Maecenas interdum arcu at nisl convallis, eget bibendum lorem viverra. Nulla facilisi. Suspendisse potenti. Proin lobortis risus nec quam efficitur, id laoreet mi convallis. Sed lacinia, dolor a dictum congue, nisi ligula convallis urna, vel ultricies purus risus auctor nunc.</p>
     </div>
 </body>
