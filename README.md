@@ -88,14 +88,25 @@
 15-
 16-
 
-## Education
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:green;">Education</h1>
+  </div>
+</body>
+<hr style="width:100%;text-align:center;">
+<br>
 <br>
 <p>Ongoing Doctorate degree in Bioinformatics (Federal University of Minas Gerais, Brazil).</p>
 <p>Masters in Biochemistry and Molecular Biology (Federal University of Bahia, Brazil).</p>
 <p>Bachelor in Biotechnology (Federal University of Bahia, Brazil with an exchange period at Carleton University, Canada).</p>
 <br>
-
-## Skills
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:green;">Skills</h1>
+  </div>
+</body>
+<hr style="width:100%;text-align:center;">
+<br>
 #### Programming languages
 <h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
 #### R packages
@@ -107,7 +118,13 @@
 #### Other tools
 <h>Github, Collab, Inkscape</h>
 
-## Publications
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:green;">Publications</h1>
+  </div>
+</body>
+<hr style="width:100%;text-align:center;">
+<br>
 
 
 [Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner](https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387)
