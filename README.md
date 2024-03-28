@@ -120,7 +120,9 @@
 </body>
 <hr style="width:100%;text-align:center;">
 <br>
-<p>Programming languages: </p>
+<p>
+    <strong>Programming languages:</strong>
+</p>
 <h>Bash, Python, R (and a bit of HTML just to make this website <span>&#128517;</span>)</h>
 <p>R packages:</p>
 <h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
