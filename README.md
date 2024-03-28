@@ -13,7 +13,7 @@
             align-items: center; /* Alinha itens verticalmente ao centro */
         }
         .image {
-            width: 20%; /* Define a largura máxima da imagem */
+            width: 30%; /* Define a largura máxima da imagem */
             height: auto;
             margin-right: 20px; /* Margem à direita para separar a imagem do parágrafo */
         }
