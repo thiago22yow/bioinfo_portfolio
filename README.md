@@ -150,7 +150,7 @@
 <br>
 
 
-[Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner](https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387)
+<a>[Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner](https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387)</a>
 
 [The evolution of ADAM gene family in eukaryotes](https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub)
 
