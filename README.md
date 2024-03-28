@@ -46,7 +46,7 @@
 <p>3- Normalized heatmap of gene intersections</p> 
 <p>4- Heaps law calculation</p> 
 <p>5- PCA plot of gene content</p> 
-<p> 6- Boxplot of genomic features</p> 
+<p>6- Boxplot of genomic features</p> 
 <br>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
@@ -61,7 +61,8 @@
 </p>
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
-<p>9- Tertiary tructures of different MVPs compared do modelled phage MVPs p</p>
+<p>9- Tertiary tructures of different MVPs compared do modelled phage MVPs</p>
+<br>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
     Project III
