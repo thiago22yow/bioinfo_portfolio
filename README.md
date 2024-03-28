@@ -27,8 +27,6 @@
 <p align="center">
  "Pangenome of putative viral family"
  </p>
-  </strong>
-  </span>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/1.svg">
 </p> 
@@ -46,7 +44,6 @@
 <p align="center">
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
- </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/2.svg">
 </p>
@@ -60,7 +57,6 @@
 <p align="center">
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
- </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/3.svg">
 </p>
@@ -72,7 +68,6 @@
 <p align="center">
   Miscellaneous
   </p>
- </strong>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/4.svg">
 </p>
