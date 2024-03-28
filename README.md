@@ -154,14 +154,14 @@
 
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub" target="_blank">The evolution of ADAM gene family in eukaryotes</a></p>
 
-<a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1" target="_blank">Characterization and Phylogenetic Insights into the First Viral Major Vault Proteins (MVPs), Identified in Bacteriophages from the Human Gut</a>
-<br>
-<a href="https://journals.asm.org/doi/10.1128/jvi.01309-23" target="_blank">Gene duplication as a major force driving the genome expansion in some giant viruses</a>
-<br>
-<a href="http://dx.doi.org/10.51781/97865869201853250" target="_blank">Vigilância Genômica em Saúde Pública</a>
-<br>
-<a href="https://dasa.com.br/genov/" target="_blank">Relatório DASA - 2022</a>
-<br>
-<a href="https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2022/04/diferencas-geneticas-afetam-como-o-coronavirus-se-liga-as-nossas-celulas.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo" target="_blank">Diferencas genéticas afetam como o coronavírus se liga as nossas células</a>
-<br>
-<a href="https://www.em.com.br/app/noticia/bem-viver/2022/05/03/interna_bem_viver,1363929/covid-19-mutacao-em-proteina-humana-pode-alterar-a-afinidade-de-variantes.shtml" target="_blank">COVID-19: Mutação em proteina humana pode alterar a afinidade de variantes</a>
+<p><a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1" target="_blank">Characterization and Phylogenetic Insights into the First Viral Major Vault Proteins (MVPs), Identified in Bacteriophages from the Human Gut</a></p>
+
+<p><a href="https://journals.asm.org/doi/10.1128/jvi.01309-23" target="_blank">Gene duplication as a major force driving the genome expansion in some giant viruses</a></p>
+
+<p><a href="http://dx.doi.org/10.51781/97865869201853250" target="_blank">Vigilância Genômica em Saúde Pública</a></p>
+
+<p><a href="https://dasa.com.br/genov/" target="_blank">Relatório DASA - 2022</a></p>
+
+<p><a href="https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2022/04/diferencas-geneticas-afetam-como-o-coronavirus-se-liga-as-nossas-celulas.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo" target="_blank">Diferencas genéticas afetam como o coronavírus se liga as nossas células</a></p>
+
+<p><a href="https://www.em.com.br/app/noticia/bem-viver/2022/05/03/interna_bem_viver,1363929/covid-19-mutacao-em-proteina-humana-pode-alterar-a-afinidade-de-variantes.shtml" target="_blank">COVID-19: Mutação em proteina humana pode alterar a afinidade de variantes</a></p>
