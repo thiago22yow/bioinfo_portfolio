@@ -16,6 +16,7 @@
         .image {
             width: 30%;
             height: auto;
+            margin-right: 20px;
         }
     </style>
 </head>
