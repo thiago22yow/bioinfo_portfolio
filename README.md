@@ -44,7 +44,7 @@
     <div class="square">
         <div>
             <img src=
-"assets/images/eu2.jpg"
+"assets/images/eu2.jpg" class="image"
                 alt=".">
         </div>
         <p>
