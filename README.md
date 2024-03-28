@@ -62,31 +62,33 @@
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
 <p>9- Tertiary tructures of different MVPs compared do modelled phage MVPs p</p>
-<strong>
-<p align="center"> 
-  Project III 
-  </p>
+<body>
+  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
+    Project III
+  </div>
+</body>
 <p align="center">
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/3.svg">
 </p>
-10
-11-
-12-
-13-
+<p>10-</p>
+<p>11-</p>
+<p>12-</p>
+<p>13-</p>
 <strong>
-<p align="center">
-  Miscellaneous
-  </p>
+<body>
+  <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
+    Miscellaneous
+  </div>
+</body>
 <p align="center">
   <img width="1160" height="1000" src="assets/images/4.svg">
 </p>
-14-
-15-
-16-
-
+<p>14-</p>
+<p>15-</p>
+<p>16-</p>
 <body>
   <div style="text-align:center;">
     <h1 style="color:green;">Education</h1>
