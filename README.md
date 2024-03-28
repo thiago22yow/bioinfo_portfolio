@@ -90,7 +90,6 @@
 <p>11-</p>
 <p>12-</p>
 <p>13-</p>
-<strong>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
     Miscellaneous
