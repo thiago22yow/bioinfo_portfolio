@@ -16,7 +16,7 @@
         }
 
         .image {
-            max-width: 200px; /* Define a largura máxima da imagem */
+            max-width: 20px; /* Define a largura máxima da imagem */
             height: auto; /* Permite que a altura seja ajustada automaticamente */
         }
 
