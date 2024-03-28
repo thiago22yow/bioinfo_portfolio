@@ -14,7 +14,7 @@
             align-items: center;
         }
         .image {
-            width: 20%;
+            width: 30%;
             height: auto;
         }
     </style>
