@@ -150,9 +150,9 @@
 <br>
 
 
-<a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387" target="_blank">Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner</a>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2022.2042387" target="_blank">Human variation in the protein receptor ACE2 affects its binding affinity to SARS-CoV-2 in a variant-dependent manner</a></p>
 <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub" target="_blank">The evolution of ADAM gene family in eukaryotes</a>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0888754319308535?via%3Dihub" target="_blank">The evolution of ADAM gene family in eukaryotes</a></p>
 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566534v1" target="_blank">Characterization and Phylogenetic Insights into the First Viral Major Vault Proteins (MVPs), Identified in Bacteriophages from the Human Gut</a>
 <br>
