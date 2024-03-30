@@ -140,7 +140,7 @@
 <h>Genomics - Figtree, MEGA, Aragorn, Prodigal, BLAST, GeneMarkS, MEME, CIAlign, SPAdes, IGV, Proksee, MAFFT, IQ-TREE, SAMtools, VEP <h> 
 <h>Structural Biology - Pymol, Prodigy, Alphafold, Gromacs, Hdock, Firedock, QMEAN</h>
 <h>Virology - VIRSCAN, VICTOR, PhaTYP, BACPHLIP, PHACTS, VipTree</h>
-<h>Transcripomics - Proteinortho, miRWalk, hmmer, CD-HIT, Exatlas, Enrichr</h>
+<h>Transcripomics - Proteinortho, miRWalk, hmmer, CD-HIT, Exatlas, Enrichr, Bowtie, GSEA, GO</h>
 <h>Networks - Cytoscape, Gephi, STRING, CytoHubba, MCODE</h>
 <p>
     <strong>Databases:</strong>
