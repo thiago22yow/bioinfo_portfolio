@@ -90,10 +90,10 @@
 <p align="center">
   <img width="1360" height="1200" src="assets/images/3_2.svg">
 </p>
-<p>10-</p>Close-up of docked Spike and ACE2 protein, showing the interacting mutated aminoacids.
-<p>11-</p>Heatmap of formed Hydrogen Bonds.
-<p>12-</p>Boxplots of binding affinities between different ACE2 and Spike proteins.
-<p>13-</p>RMSD calculated from Molecular Dynamics of different ACE2/Spike complexes.
+<p>10- Close-up of docked Spike and ACE2 protein, showing the interacting mutated aminoacids.</p>
+<p>11- Heatmap of formed Hydrogen Bonds.</p>
+<p>12- Boxplots of binding affinities between different ACE2 and Spike proteins.</p>
+<p>13- RMSD calculated from Molecular Dynamics of different ACE2/Spike complexes.</p>
 <br>
 <br>
 <body>
@@ -104,9 +104,9 @@
 <p align="center">
   <img width="1360" height="1200" src="assets/images/4_2.svg">
 </p>
-<p>14-</p>Protein-Protein Network generated from STRING and visualized in Cytoscape and Gephi.
-<p>15-</p>Upset plot of gene sharing intersections.
-<p>16-</p>Collage of genomic features of MPX virus focusing on new mutation. Modelled protein structure of mutant receptor atattched to viral membrane in complex to human receptor.
+<p>14- Protein-Protein Network generated from STRING and visualized in Cytoscape and Gephi.</p>
+<p>15- Upset plot of gene sharing intersections.</p>
+<p>16- Collage of genomic features of MPX virus focusing on new mutation. Modelled protein structure of mutant receptor atattched to viral membrane in complex to human receptor.</p>
 <body>
   <div style="text-align:center;">
     <h1 style="color:green;">Education</h1>
