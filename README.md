@@ -62,6 +62,7 @@
 <p>5- PCA plot of gene content</p> 
 <p>6- Boxplot of genomic features</p> 
 <br>
+<br>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
     Project II
@@ -76,6 +77,7 @@
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
 <p>9- Tertiary tructures of different MVPs compared do modelled phage MVPs</p>
+<br>
 <br>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
@@ -92,6 +94,8 @@
 <p>11-</p>Heatmap of formed Hydrogen Bonds.
 <p>12-</p>Boxplots of binding affinities between different ACE2 and Spike proteins.
 <p>13-</p>RMSD calculated from Molecular Dynamics of different ACE2/Spike complexes.
+<br>
+<br>
 <body>
   <div style="text-align:center; font-size: 20px; font-weight: bold;"> 
     Miscellaneous
@@ -133,11 +137,15 @@
 <p>
     <strong>Softwares:</strong>
 </p>
-<h>Pymol, Prodigy, alhpafold, gromacs, Hdock, figtree, mega, cytoscape, gephi, exatlas, virscan, proteinortho, miRWalk, STRING, CytoHubba, MCODE, Enrichr, CD-HIT, BLAST, Aragorn, Prodigal, GeneMarkS, MEME, hmmer, Cialign, SPAdes, VIRIDIC, VICTOR</h>
+<h>Genomics - Figtree, MEGA, Aragorn, Prodigal, BLAST, GeneMarkS, MEME, CIAlign, SPAdes, IGV, Proksee, MAFFT, IQ-TREE, SAMtools, VEP <h> 
+<h>Structural Biology - Pymol, Prodigy, Alphafold, Gromacs, Hdock, Firedock, QMEAN</h>
+<h>Virology - VIRSCAN, VICTOR, PhaTYP, BACPHLIP, PHACTS, VipTree</h>
+<h>Transcripomics - Proteinortho, miRWalk, hmmer, CD-HIT, Exatlas, Enrichr</h>
+<h>Networks - Cytoscape, Gephi, STRING, CytoHubba, MCODE</h>
 <p>
     <strong>Databases:</strong>
 </p>
-<h>GEO, PDB, NCBI, SRA, miRBase</h>
+<h>GEO, PDB, NCBI, SRA, miRBase, UNIPROT, Alphafold, Virus-Host DB database, 1000 Genomes Project (1KG) </h>
 <p>
     <strong>Other tools:</strong>
 </p>
