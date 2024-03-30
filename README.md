@@ -86,7 +86,7 @@
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/3_2.svg">
+  <img width="1360" height="1200" src="assets/images/3_2.svg">
 </p>
 <p>10-</p>
 <p>11-</p>
