@@ -15,7 +15,7 @@
         .image {
             width: 30%; /* Define a largura máxima da imagem */
             height: auto;
-            margin-right: 20px; /* Margem à direita para separar a imagem do parágrafo */
+            margin-bottom: 0px; /* Margem embaixo para separar a imagem do parágrafo */
         }
     </style>
 </head>
