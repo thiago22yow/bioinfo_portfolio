@@ -53,7 +53,7 @@
  "Pangenome of putative viral family"
  </p>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/1.svg">
+  <img width="1160" height="1000" src="assets/images/1_2.svg">
 </p> 
 <p>1- FlowerPlot - intersections of gene content</p> 
 <p>2- Pangenomic rarefraction curve</p> 
@@ -71,7 +71,7 @@
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/2.svg">
+  <img width="1160" height="1000" src="assets/images/2_2.svg">
 </p>
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
@@ -86,7 +86,7 @@
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/3.svg">
+  <img width="1160" height="1000" src="assets/images/3_2.svg">
 </p>
 <p>10-</p>
 <p>11-</p>
@@ -98,7 +98,7 @@
   </div>
 </body>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/4.svg">
+  <img width="1160" height="1000" src="assets/images/4_2.svg">
 </p>
 <p>14-</p>
 <p>15-</p>
