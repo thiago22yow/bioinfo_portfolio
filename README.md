@@ -98,7 +98,7 @@
   </div>
 </body>
 <p align="center">
-  <img width="1160" height="1000" src="assets/images/4_2.svg">
+  <img width="1360" height="1200" src="assets/images/4_2.svg">
 </p>
 <p>14-</p>
 <p>15-</p>
