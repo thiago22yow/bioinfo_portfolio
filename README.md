@@ -133,14 +133,18 @@
 <p>
     <strong>R packages:</strong>
 </p>
-<h>ggplot2, pheatmap, reshape2, ploty, upsetplot </h>
+<h>ggplot2, Pheatmap, Heatmaply, Reshape2, plotty, Upsetplot </h>
 <p>
     <strong>Softwares:</strong>
 </p>
-<h>Genomics - Figtree, MEGA, Aragorn, Prodigal, BLAST, GeneMarkS, MEME, CIAlign, SPAdes, IGV, Proksee, MAFFT, IQ-TREE, SAMtools, VEP <h> 
+<h>Genomics - FastQC, Figtree, MEGA, Aragorn, Prodigal, BLAST, GeneMarkS, MEME, CIAlign, SPAdes, IGV, Proksee, MAFFT, IQ-TREE, SAMtools, VEP </h> 
+<hr>
 <h>Structural Biology - Pymol, Prodigy, Alphafold, Gromacs, Hdock, Firedock, QMEAN</h>
+<hr>
 <h>Virology - VIRSCAN, VICTOR, PhaTYP, BACPHLIP, PHACTS, VipTree</h>
+<hr>
 <h>Transcripomics - Proteinortho, miRWalk, hmmer, CD-HIT, Exatlas, Enrichr, Bowtie, GSEA, GO</h>
+<hr>
 <h>Networks - Cytoscape, Gephi, STRING, CytoHubba, MCODE</h>
 <p>
     <strong>Databases:</strong>
