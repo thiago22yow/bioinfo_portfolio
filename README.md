@@ -34,7 +34,7 @@
     </div>
 </body>
 <body><p style='text-align: justify;'>
-    However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses using programming languages such as Python, R, and Bash to perform various biological experiments and analyses. My areas of interest include <strong>Genomics</strong> and <strong>Structural Biology</strong> (It's very exciting when I combine both), specially for <strong>Virology</strong>. Take a quick look at some examples!</p>
+    However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses using programming languages such as Python, R, and Bash to perform various biological experiments and analyses for <strong>research</strong> and <strong>private companies</strong>. My areas of interest include <strong>Genomics</strong> and <strong>Structural Biology</strong> (It's very exciting when I combine both), specially for <strong>Virology</strong>. Take a quick look at some examples!</p>
 </body>
 <br>
 <body>
@@ -138,13 +138,13 @@
     <strong>Softwares:</strong>
 </p>
 <h>Genomics - FastQC, Figtree, MEGA, Aragorn, Prodigal, BLAST, GeneMarkS, MEME, CIAlign, SPAdes, IGV, Proksee, MAFFT, IQ-TREE, SAMtools, VEP </h> 
-<hr>
-<h>Structural Biology - Pymol, Prodigy, Alphafold, Gromacs, Hdock, Firedock, QMEAN</h>
-<hr>
+<br>
+<h>Structural Biology - Pymol, Prodigy, Alphafold, Gromacs, Hdock, Firedock, QMEAN, OPM</h>
+<br>
 <h>Virology - VIRSCAN, VICTOR, PhaTYP, BACPHLIP, PHACTS, VipTree</h>
-<hr>
+<br>
 <h>Transcripomics - Proteinortho, miRWalk, hmmer, CD-HIT, Exatlas, Enrichr, Bowtie, GSEA, GO</h>
-<hr>
+<br>
 <h>Networks - Cytoscape, Gephi, STRING, CytoHubba, MCODE</h>
 <p>
     <strong>Databases:</strong>
