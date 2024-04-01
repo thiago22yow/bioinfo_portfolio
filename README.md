@@ -17,6 +17,7 @@
             height: auto;
             margin-right: 20px; /* Margem embaixo para separar a imagem do parágrafo */
             margin-bottom: 0px;
+            max-width: 100%;
         }
     </style>
 </head>
