@@ -52,7 +52,7 @@
  "Pangenome of putative viral family"
  </p>
 <p align="center">
-    <a href="assets/images/1_2.svg" target="_blank" style="width:100px; height:auto;">
+    <a href="javascript:window.open('assets/images/1_2.svg','_blank','toolbar=no,menubar=no,resizable=yes,scrollbars=yes')">
   <img src="assets/images/1_2.svg" style="max-width: 100%; height: auto;" alt="Collection of graphics" >
     </a>
 </p> 
