@@ -71,7 +71,7 @@
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
 <div style="display: flex; justify-content: center;">
-    <img src="assets/images/2_large.svg" style="max-width: 130%; height: auto;" alt="Collection of graphics">
+    <img src="assets/images/2_large.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics">
 </div> 
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
@@ -87,7 +87,7 @@
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
 <div style="display: flex; justify-content: center;">
-    <img src="assets/images/3_large.svg" style="max-width: 130%; height: auto;" alt="Collection of graphics">
+    <img src="assets/images/3_large.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics">
 </div> 
 <p>10- Close-up of docked Spike and ACE2 protein, showing the interacting mutated aminoacids.</p>
 <p>11- Heatmap of formed Hydrogen Bonds.</p>
@@ -101,7 +101,7 @@
   </div>
 </body>
 <div style="display: flex; justify-content: center;">
-    <img src="assets/images/4_large.svg" style="max-width: 130%; height: auto;" alt="Collection of graphics">
+    <img src="assets/images/4_large.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics">
 </div> 
 <p>14- Protein-Protein Network generated from STRING and visualized in Cytoscape and Gephi.</p>
 <p>15- Upset plot of gene sharing intersections.</p>
