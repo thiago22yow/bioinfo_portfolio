@@ -43,7 +43,6 @@
   </div>
 </body>
 <hr style="width:100%;text-align:center;">
-<br>
 <body>
   <div style="text-align:center; font-size: 20px; font-family:century gothic; font-weight: bold;"> 
     Project I
