@@ -21,17 +21,17 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name" style="font-size: 26px;">THIAGO MENDONÇA'S BIOINFORMATICS PORTFOLIO</h1>
-      <h2 class="project-tagline">{{ default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
+<header class="page-header" role="banner">
+    <h1 class="project-name" style="font-size: 26px;">THIAGO MENDONÇA'S BIOINFORMATICS PORTFOLIO</h1>
+    <h2 class="project-tagline">{{ default: site.github.project_tagline }}</h2>
+    {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ https://www.linkedin.com/in/thiago-mendon%C3%A7a-dos-santos/ }}" class="btn">Linkedin</a>
-        <a href="{{ http://lattes.cnpq.br/4566092450464791 }}" class="btn">Lattes</a>
-      {% endif %}
-    </header>
+    {% endif %}
+    {% if site.show_downloads %}
+        <a href="https://www.linkedin.com/in/thiago-mendon%C3%A7a-dos-santos/" class="btn">Linkedin</a>
+        <a href="http://lattes.cnpq.br/4566092450464791" class="btn">Lattes</a>
+    {% endif %}
+</header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
