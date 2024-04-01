@@ -52,7 +52,9 @@
  "Pangenome of putative viral family"
  </p>
 <p align="center">
-  <img src="assets/images/1_2.svg" style="max-width: 100%; height: auto;" alt="Collection of graphics">
+    <a <a href="assets/images/1_2.svg" target="_blank">>
+  <img src="assets/images/1_2.svg" style="max-width: 100%; height: auto;" alt="Collection of graphics" >
+    </a>
 </p> 
 <p>1- FlowerPlot - intersections of gene content</p> 
 <p>2- Pangenomic rarefraction curve</p> 
