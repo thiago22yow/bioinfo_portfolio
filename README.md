@@ -71,7 +71,7 @@
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
 <div style="display: flex; justify-content: center;">
-    <img src="assets/images/2_2.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics">
+    <img src="assets/images/2_2.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics">
 </div> 
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
