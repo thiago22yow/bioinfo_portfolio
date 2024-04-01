@@ -9,13 +9,13 @@
     </style>
     <style>
         .container {
-            display: flex; /* Define um contêiner flexível */
-            align-items: center; /* Alinha itens verticalmente ao centro */
+            display: flex; 
+            align-items: center; 
         }
         .image {
-            width: 30%; /* Define a largura máxima da imagem */
+            width: 30%; 
             height: auto;
-            margin-right: 20px; /* Margem embaixo para separar a imagem do parágrafo */
+            margin-right: 20px; 
             margin-bottom: 0px;
         }
     </style>
