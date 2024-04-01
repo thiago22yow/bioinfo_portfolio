@@ -71,7 +71,7 @@
  "Genomic and Structural Analysis of Major Vault Potein in Bacteriophages"
  </p>
 <div style="display: flex; justify-content: center;">
-    <img src="assets/images/2_2.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics">
+    <img src="assets/images/2_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics">
 </div> 
 <p>7- Genomic representation of bacteriophages' genome, Reads mapping to assembled genome, Phylogenetic tree of new bacteriophages and reference ones</p>
 <p>8- Phylogenetic tree of Eukaryotic, Prokaryotic and viral MVPs</p>
@@ -86,9 +86,9 @@
 <p align="center">
  "Characterization of SARS-CoV-2 and Human mutations on protein binding affinity"
 </p>
-<p align="center">
-  <img width="1360" height="1200" src="assets/images/3_2.svg">
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="assets/images/3_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics">
+</div> 
 <p>10- Close-up of docked Spike and ACE2 protein, showing the interacting mutated aminoacids.</p>
 <p>11- Heatmap of formed Hydrogen Bonds.</p>
 <p>12- Boxplots of binding affinities between different ACE2 and Spike proteins.</p>
@@ -100,9 +100,9 @@
     Miscellaneous
   </div>
 </body>
-<p align="center">
-  <img width="1360" height="1200" src="assets/images/4_2.svg">
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="assets/images/4_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics">
+</div> 
 <p>14- Protein-Protein Network generated from STRING and visualized in Cytoscape and Gephi.</p>
 <p>15- Upset plot of gene sharing intersections.</p>
 <p>16- Collage of genomic features of MPX virus focusing on new mutation. Modelled protein structure of mutant receptor atattched to viral membrane in complex to human receptor.</p>
