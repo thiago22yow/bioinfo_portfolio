@@ -53,7 +53,7 @@
  </p>
 <p align="center">
     <a href="assets/images/1_large.svg" target="_blank;">
-        <img src="assets/images/1_large.svg" style="max-width: 150%; height: auto;" alt="Collection of graphics" >
+        <img src="assets/images/1_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics" >
     </a>
 </p> 
 <p>1- FlowerPlot - intersections of gene content</p> 
