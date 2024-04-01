@@ -51,9 +51,9 @@
 <p align="center">
  "Pangenome of putative viral family"
  </p>
-<p align="center">
-    <img src="assets/images/1_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics" align="center">
-</p> 
+<div style="display: flex; justify-content: center;">
+    <img src="assets/images/1_large.svg" style="max-width: 120%; height: auto;" alt="Collection of graphics">
+</div> 
 <p>1- FlowerPlot - intersections of gene content</p> 
 <p>2- Pangenomic rarefraction curve</p> 
 <p>3- Normalized heatmap of gene intersections</p> 
