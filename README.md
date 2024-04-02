@@ -34,7 +34,7 @@
     </div>
 </body>
 <body><p style='text-align: justify;'>
-    However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses using programming languages such as Python, R, and Bash to perform various biological experiments and analyses for <strong>research</strong> and <strong>private companies</strong>. My areas of interest include <strong>Genomics</strong> and <strong>Structural Biology</strong> (It's very exciting when I combine both), specially for <strong>Virology</strong>. Take a quick look at some examples!</p>
+    However, my project in the Master's program required me to dig into transcriptomics, which meant 100% in silico work. To my surprise, I found myself developing an affinity for it. The endless possibilities and beautiful graphs were joy to my eyes. Now, I spend my time conducting detailed and in-depth computational analyses in <strong>local</strong>, <strong>cloud</strong> and <strong>HPC</strong> using programming languages such as Python, R, and Bash to perform various biological experiments and analyses for <strong>research</strong> and <strong>private companies</strong>. My areas of interest include <strong>Genomics</strong> and <strong>Structural Biology</strong> (It's very exciting when I combine both), specially for <strong>Virology</strong>. Take a quick look at some examples!</p>
 </body>
 <br>
 <body>
